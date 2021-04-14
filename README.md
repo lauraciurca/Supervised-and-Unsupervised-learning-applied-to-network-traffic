@@ -10,13 +10,13 @@ The dataset has been taken from Kaggle and has been made using data from differe
 
 ## About ML algorithms
 
-* The first part of the project is focused on the creation of predictive models to forecast the type of application (benign/malicious) on the basis of data traffic using the following supervised learning 
+The first part of the project is focused on the creation of predictive models to forecast the type of application (benign/malicious) on the basis of data traffic using the following supervised learning 
 techniques: 
 - Decision trees 
 - Random forest 
 - ANN 
 
-* The second part is focused on PCA technique that has been implemented to reduce the 
+The second part is focused on PCA technique that has been implemented to reduce the 
 complexity of the model and to allow ANN to perform better. 
 
 
