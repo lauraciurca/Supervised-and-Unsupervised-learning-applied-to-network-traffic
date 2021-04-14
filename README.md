@@ -6,7 +6,7 @@ The project is about Android applications, which are vulnerable to malicious att
 
 ## About the dataset
 
-The dataset has been taken from Kaggle (https://www.kaggle.com/xwolf12/network-trafficandroid-malware?select=android_traffic.csv) and has been made using data from different pcaps files getting Android apps and Malware apps in 2018. It includes information about 112 application regarding network traffic, more exactly file transfer measured through the number of tcp and other packets sent and received and internet traffic measured in byte volumes.
+The dataset has been taken from Kaggle and has been made using data from different pcaps files getting Android apps and Malware apps in 2018. It includes information about 112 application regarding network traffic, more exactly file transfer measured through the number of tcp and other packets sent and received and internet traffic measured in byte volumes.
 
 ## About ML algorithms
 
